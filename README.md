@@ -1,2 +1,5 @@
-# Traffic-light-system
-We as a group created a circuit of Traffic lights i.e. how they work with the help of several circuits elements as a Semester project.
+# Traffic Light System
+
+Electronics/circuit semester project: a traffic-light circuit documented in `ECA 2 PROJECT.docx` and `hamzaeca.pptx`.
+
+Hardware/academic archive — not a software runtime.
